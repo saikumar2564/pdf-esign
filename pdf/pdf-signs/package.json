@@ -1,0 +1,20 @@
+{
+  "name": "pdf-signs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@jonz94/verify-pdf": "^2.0.0",
+    "moment": "^2.30.1",
+    "node-tesseract-ocr": "^2.2.1",
+    "pdfreader": "^3.0.2"
+  },
+  "type": "module",
+  "devDependencies": {},
+  "keywords": [],
+  "description": ""
+}
